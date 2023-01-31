@@ -1,0 +1,55 @@
+{
+    "aliens": [
+      {
+        "id": 1,
+        "title": "Wildmutt",
+        "description": "Wildmutt is a quadrupedal alien with razor sharp teeth and incredible sense of smell. He can't speak, but can understand human speech."
+      },
+      {
+        "id": 2,
+        "title": "Four Arms",
+        "description": "Four Arms is a humanoid alien with four arms, superhuman strength and durability. He can also shoot energy blasts from his hands"
+      },
+      {
+        "id": 3,
+        "title": "Grey Matter",
+        "description": "Grey Matter is a small alien with a big brain and intelligence. He can also climb walls and ceilings using suction cups on his hands and feet."
+      },
+      {
+        "id": 4,
+        "title": "Heatblast",
+        "description": "Heatblast is a pyrokinetic alien with the ability to generate and control fire. He can also fly using the jets of fire coming out of his feet."
+      },
+      {
+        "id": 5,
+        "title": "Diamondhead",
+        "description": "Diamondhead is a crystalline alien with diamond-hard skin and the ability to project diamond-like shards from his body."
+      },
+      {
+        "id": 6,
+        "title": "XLR8",
+        "description": "XLR8 is a Kineceleran alien with incredible speed and agility. He can also generate powerful shockwaves with his speed."
+      },
+      {
+        "id": 7,
+        "title": "Upgrade",
+        "description": "Upgrade is a Galvanic Mechamorph alien with the ability to merge with and control technology. He can also generate powerful energy beams from his eyes."
+      },
+      {
+        "id": 8,
+        "title": "Cannonbolt",
+        "description": "Cannonbolt is a Arburian Pelarota alien with a nearly indestructible armor and the ability to curl into a ball for protection or to roll at high speeds."
+      },
+      {
+        "id": 9,
+        "title": "Ghostfreak",
+        "description": "Ghostfreak is a Ectonurite alien with the ability to phase through objects and become intangible. He can also generate powerful energy blasts from his hands."
+      },
+      {
+        "id": 10,
+        "title": "Ripjaws",
+        "description": "Ripjaws is a Piscciss Volann alien with the ability to breathe underwater and razor-sharp teeth. He can also extend his jaw to bite through virtually anything."
+      }
+    ]
+  }
+  
