@@ -11,7 +11,7 @@ import AlienImageHelper from '../../helpers/AlienImageHelper'
 
 type AlienPopupWindowProps = {
     alienPopup: boolean;
-    setAlienPopup: any;
+    setAlienPopup: React.Dispatch<React.SetStateAction<boolean>>;
     selectedAlien: number;
 
 }

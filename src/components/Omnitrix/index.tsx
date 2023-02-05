@@ -8,7 +8,7 @@ import OnButtonOmnitrix from '../OnButtonOmnitrix';
 import HeroSelectionOmnitrix from '../HeroSelectionOmnitrix';
 
 type OmnitrixProps = {
-    setFlashBackground: any;
+    setFlashBackground: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
 const Omnitrix:React.FC<OmnitrixProps> = ({setFlashBackground}) => {

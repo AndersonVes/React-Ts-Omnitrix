@@ -3,7 +3,7 @@ import { Wrapper, Content } from './Header.styles';
 
 type HeaderProps = {
     credits: boolean;
-    setCredits: any;
+    setCredits: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
 const Header: React.FC<HeaderProps> = ({ credits, setCredits }) => {

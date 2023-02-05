@@ -13,7 +13,7 @@ import Alien from '../Alien';
 
 type HeroSelectionOmnitrixProps = {
     active: boolean;
-    setFlashBackground: any;
+    setFlashBackground: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
 const HeroSelectionOmnitrix: React.FC<HeroSelectionOmnitrixProps> = ({ active, setFlashBackground }) => {
@@ -52,6 +52,7 @@ const HeroSelectionOmnitrix: React.FC<HeroSelectionOmnitrixProps> = ({ active, s
         }
 
         setSelectedAlien(selectedAlien - 1)
+
 
     }
 

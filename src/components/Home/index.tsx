@@ -7,7 +7,7 @@ import Omnitrix from '../Omnitrix';
 import Header from '../Header';
 
 type HomeProps = {
-    setFlashBackground: any;
+    setFlashBackground: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
 const Home: React.FC<HomeProps> = ({ setFlashBackground }) => {

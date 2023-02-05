@@ -8,10 +8,10 @@ import { Wrapper } from './RotateControlsOmnitrix.styles';
 import AlienPopupWindow from '../AlienPopupWindow';
 
 type ControlsProps = {
-  rotate: any;
+  rotate: (direction: 0 | 1) => void;
   active: boolean;
   alienPopup: boolean;
-  setAlienPopup: any;
+  setAlienPopup: React.Dispatch<React.SetStateAction<boolean>>;
   selectedAlien: number;
 }
 
